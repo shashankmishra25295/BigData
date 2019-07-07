@@ -1,0 +1,6 @@
+**************************************************************************************************
+Step by step approach to install hadoop
+https://www.journaldev.com/20358/install-hadoop-on-ubuntu
+
+
+http://apache.org/dist/hadoop/core/hadoop-3.1.1/hadoop-3.1.1.tar.gz
